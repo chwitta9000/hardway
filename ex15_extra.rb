@@ -10,8 +10,8 @@
 
  puts txt.read()
 
- puts File.exist?("ex15_sample.txt")
- puts File.path("ex15_sample.txt")
+ puts File.exist?("Text/ex15_sample.txt")
+ puts File.path("Text/ex15_sample.txt")
 
  txt.close()
 
